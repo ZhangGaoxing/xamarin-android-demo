@@ -1,2 +1,2 @@
 # xamarin-android-demo
-ZhangGaoxing‘s Xamarin.Android Examples
+ZhangGaoxing‘s Xamarin.Android samples
